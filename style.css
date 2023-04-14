@@ -313,15 +313,15 @@ span{
 }
 
 .skill h2{
-    /* top: 2000px;
-    left: 1618px; */
+    top: 2000px;
+    left: 1618px;
     font-weight: 700;
     font-size: 48px;
     line-height: 62px;
     text-align: center;
     color: #FFFFFF;
-    margin-top: 1500px;
-    margin-left: -10px;
+/*     margin-top: 1500px;
+    margin-left: -10px; */
 }
 
 .skill-container{
